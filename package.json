@@ -1,0 +1,19 @@
+{
+  "name": "gulp-from-scratch",
+  "version": "1.0.0",
+  "description": "Basic learnings from https://css-tricks.com/gulp-for-beginners/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdrops/gulp-from-scratch.git"
+  },
+  "author": "Davi Marcondes Moreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devdrops/gulp-from-scratch/issues"
+  },
+  "homepage": "https://github.com/devdrops/gulp-from-scratch#readme"
+}
